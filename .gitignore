@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+deliverables/
+.gen/
+
+# Eclipse/IDE Metadata
+.settings/
+.classpath
+.project
+.factorypath
+.javacard_project
+
+# OS junk
+Thumbs.db
+.DS_Store
